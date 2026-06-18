@@ -1,1 +1,2 @@
-# Pulse-study-app/(root)
+# Pulse-study-app
+
